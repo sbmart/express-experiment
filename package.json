@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/sbmart/express-experiment#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "response-time": "^2.3.2"
   }
 }
