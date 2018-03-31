@@ -1,0 +1,25 @@
+{
+  "name": "express-experiment",
+  "version": "1.0.0",
+  "description": "Building web API with express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbmart/express-experiment.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "sbmart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sbmart/express-experiment/issues"
+  },
+  "homepage": "https://github.com/sbmart/express-experiment#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
